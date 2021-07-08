@@ -8,6 +8,8 @@ BOOTPROTO=none
 ONBOOT=yes
 PREFIX=24
 IPADDR=192.168.1.199
+GATEWAY=192.168.1.1
+
 ```
 
 after configuring file:
